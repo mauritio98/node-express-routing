@@ -1,0 +1,16 @@
+POST http://localhost:3000/user/add 
+
+####
+GET http://localhost:3000/user/1
+
+####
+DELETE http://localhost:3000/user/1
+
+####
+POST http://localhost:3000/movies/add 
+
+####
+GET http://localhost:3000/movies/1
+
+####
+DELETE http://localhost:3000/movies/1
